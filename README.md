@@ -5,7 +5,7 @@ Playing around with libpq
 
 Compile
 
-    ./build.sh
+    ./build.sh libpqtest
 
 Run
 
